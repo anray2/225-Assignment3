@@ -1,0 +1,14 @@
+For this assignment you will be creating a page that utilizies tables and an HTML input form.
+
+The first requirement is that you create a table with at least 5 employees that have the following information:
+
+Employee First Name	Last Name	Email	Phone Number	Shift #
+
+The information for the table will be made up by you (use professional standards).
+You will be graded on how you use table, tr, and td tags for this portion of the assignment.
+
+After the table, a form to add a new employee should be present.
+The form should include all of the information for an employee listed above.
+It should be delivered to www.radford.edu/newEmployee when submitted using the POST method.
+
+Note:  This page will not respond.  It is a fake URL in place for testing.
