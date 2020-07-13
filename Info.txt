@@ -12,3 +12,6 @@ The form should include all of the information for an employee listed above.
 It should be delivered to www.radford.edu/newEmployee when submitted using the POST method.
 
 Note:  This page will not respond.  It is a fake URL in place for testing.
+
+Upload your page to RU's webpage hosting and submit the URL to D2L.
+Upload your file on GitHub as well.
